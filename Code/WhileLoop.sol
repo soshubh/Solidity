@@ -13,6 +13,7 @@ contract Loop {
         uint256 i = 0;
         while (i < number.length) {
             sum += number[i];
+            i++;
         }
         return sum;
     }
