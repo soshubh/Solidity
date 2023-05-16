@@ -2,12 +2,13 @@
 pragma solidity ^0.8.0;
 
 contract HelloWorld {
+    
     string Greeting;
-
+    
     constructor() {
         Greeting = "Hello Cutiess!";
     }
-
+    
     // public: You can call the function outside the contract.[private/internal]
     // view: read-only function (you will not be able to change any values)
     // returns: you have to identify what this function will return.
