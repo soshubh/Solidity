@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Solidity/Solidity1.svg" width="700">
+<img src="Solidity/Solidity1.svg" width="400">
 </p>
 
 <br/>
