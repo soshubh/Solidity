@@ -6,6 +6,9 @@
 <br/>
 <br/>
 ### image will upload soon
+
+<br>
+
 ---
 language: Solidity
 filename: learnSolidity.sol
