@@ -57,23 +57,18 @@ To get started, [download the Metamask Browser Extension](https://metamask.io/).
 Once installed, we will be working with Remix. The below code will be pre-loaded, but before we head over there, let's look at a few tips to get started with remix. Load it all by [hitting this link](https://remix.ethereum.org/#version=soljson-v0.6.6+commit.6c089d02.js&optimize=false&evmVersion=null&gist=f490c0d51141dd0515244db40bbd0c17&runs=200).
 
 1. Choose the Solidity compiler
-
 ![Solidity-in-remix](images/solidity/remix-solidity.png)
 
 2. Open the file loaded by that link
-
 ![Solidity-choose-file](images/solidity/remix-choose-file.png)
 
 3. Compile the file
-
 ![Solidity-compile](images/solidity/remix-compile.png)
 
 4. Deploy 
-
 ![Solidity-deploy](images/solidity/remix-deploy.png)
 
 5. Play with contracts
-
 ![Solidity-deploy](images/solidity/remix-interact.png)
 
 You've deployed your first contract! Congrats!
